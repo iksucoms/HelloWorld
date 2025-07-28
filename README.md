@@ -20,5 +20,5 @@
 2.[구글](https://www.google.com)  <br>
 
 
-# [Detail](https://iksucoms.github.io/Introduce/)
+# [Detail(클릭)](https://iksucoms.github.io/Introduce/)
 
