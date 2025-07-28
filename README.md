@@ -1,6 +1,12 @@
 # HelloWorld
 연습
 # 개발자소개
+|제목|내용|설명|
+|------|---|---|
+|이름|조익수||
+|기술|frontend|html,css,js,kotlin|
+|    |backend|django,flask|
+|    |Database|Oracle|
 # 작품1 -django framework 활용 게시판 만들기
 ### 설계도
 <img src = "back.jpg"/>
