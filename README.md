@@ -3,7 +3,7 @@
 # 개발자소개
 |제목|내용|설명|
 |------|---|---|
-|이름|조익수||
+|이름|조익수|||
 |기술|frontend|html,css,js,kotlin|
 |    |backend|django,flask|
 |    |Database|Oracle|
