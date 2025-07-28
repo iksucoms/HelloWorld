@@ -5,7 +5,7 @@
 ### 설계도
 <img src = "back.jpg"/>
 ### 발표자료
-[최종발표자료](/project.pptx)
+[최종발표자료](/SQL.pptx)
 ### 시연동영상
 <iframe width="500" height="300" src="https://www.youtube.com/embed/Rw64bItJzbY?list=RDRw64bItJzbY" title="[최신가요 실시간 인기차트] 2025년 7월 22일 4주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
